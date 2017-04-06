@@ -1,0 +1,9 @@
++Make a new file, and make sure that the file is saved in the repository that you want the file to be committed to
+
++To add content to the commit, do "git add -A"
+
++To make a commit, then type "git commit -m 'message to attach to commit'"
+
++After that, do a "git push"
+
+This should result in adding files to a github repository
