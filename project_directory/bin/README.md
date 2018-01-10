@@ -1,0 +1,1 @@
+Directory to house all compiled codes and installed binaries. Within this directory, there are also instructions for installation of any additional libraries, binaries, etc. and where they came from. Version numbers, date/time stamps, etc. will be included if applicable.

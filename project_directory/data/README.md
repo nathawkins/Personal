@@ -1,0 +1,1 @@
+Preliminary and processed data included in this directory. All processing of the data can be found in the `src` directory in the `data_processing_scripts` directory. Details for when and where the data was procured from are included. `runlog.sh` is a shell script that will perform the necessary data downloads and processing for the user. 
